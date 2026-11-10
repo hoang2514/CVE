@@ -1,4 +1,4 @@
-# 🛡️ CVE Disclosures — Nguyen Trung Hoang
+# 🛡️ CVE Disclosures
 
 A reference for the security vulnerabilities (CVEs) I've discovered and reported through coordinated disclosure.
 
