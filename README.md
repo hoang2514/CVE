@@ -15,8 +15,6 @@ A reference for the security vulnerabilities (CVEs) I've discovered and reported
 
 ## ⏳ Reserved CVEs
 
-The CVEs below have been assigned IDs by MITRE but are **not yet publicly disclosed**, as no vendor patch is available. Technical details, affected components, and proof of concept will be added once a fix is released or the disclosure deadline expires.
-
 | CVE ID | Vendor | Type | Status |
 |--------|--------|------|--------|
 | CVE-2026-117295 | Akaunting | OS Command Injection (authenticated) | Reserved — reported, no fix available |
